@@ -1,0 +1,1 @@
+console.log("Sladkiy Mir Bot ishlayapti");
